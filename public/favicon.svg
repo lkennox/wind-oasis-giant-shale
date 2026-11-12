@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="Династия">
+  <rect width="32" height="32" rx="7" fill="#07110c"/>
+  <path fill="#d7e6db" d="M16 4.2 21.1 12.2h-2.6l4.2 6.6h-2.9L24.6 26H7.4l4.8-7.2H9.3l4.2-6.6h-2.6L16 4.2z"/>
+  <rect x="14.35" y="26" width="3.3" height="2.1" rx="0.4" fill="#1b5c3b"/>
+</svg>
